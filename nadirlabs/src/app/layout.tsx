@@ -136,7 +136,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           color: 'rgba(255,255,255,0.4)',
           fontSize: '0.85rem'
         }}>
-          © 2025 Nadir Labs. All rights reserved.
+          © 2026 Nadir Labs. All rights reserved.
         </footer>
         
         <script dangerouslySetInnerHTML={{__html: `
